@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Generated model files (we want to keep the .tflite files)
+*.h5
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/
+.idea/
